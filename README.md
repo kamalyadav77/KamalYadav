@@ -35,5 +35,5 @@ I follow industry best practices to design scalable, highly available, and secur
 ## 📫 How to Reach Me
 
 - Connect me on LinkedIn: [ LinkedIn](https://https://www.linkedin.com/in/kamal-yadav-3243b780/) 🏻‍💻
-- Shoot me an Email:[Email] [mailto:yadavkamal099@gmail.com]💌
+- Shoot me an Email:[Email](mailto:yadavkamal099@gmail.com)💌
  
